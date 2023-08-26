@@ -1,8 +1,8 @@
-!
+! https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
 ! Title: Peter Lowe's Blocklist
 ! Description: Blocklist with hostnames of ad and tracking servers
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2023-08-04T11:32:31.682Z
+! Last modified: 2023-08-25T12:06:44.920Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -19,10 +19,10 @@
 !
 !For more information about this list, see: https://pgl.yoyo.org/adservers/
 !----
-!Last modified: Thu, 13 Jul 2023 17:36:33 GMT
+!Last modified: Wed, 23 Aug 2023 03:19:22 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3716
+!Entries:       3724
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 !This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
@@ -259,7 +259,6 @@
 ||adform.com
 ||adform.net
 ||adformdsp.net
-||adfs.senacrs.com.br
 ||adgardener.com
 ||adhaven.com
 ||adhese.be
@@ -456,7 +455,6 @@
 ||ads.easy-forex.com
 ||ads.economist.com
 ||ads.edbindex.dk
-||ads.egrana.com.br
 ||ads.elcarado.com
 ||ads.electrocelt.com
 ||ads.elitetrader.com
@@ -584,6 +582,7 @@
 ||ads.paymonex.net
 ||ads.pexi.nl
 ||ads.pfl.ua
+||ads.phpclasses.org
 ||ads.pinterest.com
 ||ads.planet.nl
 ||ads.pni.com
@@ -1035,6 +1034,7 @@
 ||apolloprogram.io
 ||app-analytics-v2.snapchat.com
 ||app-analytics.snapchat.com
+||app-measurement.com
 ||app.pendo.io
 ||appboycdn.com
 ||appsflyer.com
@@ -1100,6 +1100,7 @@
 ||backbeatmedia.com
 ||balloontexture.com
 ||banik.redigy.cz
+||banner-exchange-24.de
 ||banner.ambercoastcasino.com
 ||banner.buempliz-online.ch
 ||banner.casino.net
@@ -1184,6 +1185,8 @@
 ||bbn.img.com.ua
 ||beachfront.com
 ||beacon.gu-web.net
+||beacons.gcp.gvt2.com
+||beacons.gvt2.com
 ||beamincrease.com
 ||bebi.com
 ||beemray.com
@@ -1194,7 +1197,9 @@
 ||benefits.sovendus.com
 ||benfly.net
 ||berp.com
+||bespoke.iln8.net
 ||bestboundary.com
+||bestbuy.7tiv.net
 ||bestsearch.net
 ||bewilderedblade.com
 ||bfmio.com
@@ -1474,7 +1479,6 @@
 ||complextoad.com
 ||comprabanner.it
 ||concernedcondition.com
-||concerneddrink.com
 ||conditionchange.com
 ||conductrics.com
 ||connatix.com
@@ -1496,7 +1500,6 @@
 ||conversionruler.com
 ||convertingtraffic.com
 ||convrse.media
-||cookchalk.com
 ||cookies.cmpnet.com
 ||coordinatedcub.com
 ||cootlogix.com
@@ -1648,6 +1651,7 @@
 ||domainsteam.de
 ||domdex.com
 ||dotmetrics.net
+||dotomi.com
 ||doubleclick.com
 ||doubleclick.de
 ||doubleclick.net
@@ -1687,7 +1691,6 @@
 ||ecoupons.com
 ||edaa.eu
 ||edgexads.com
-||effectivemeasure.com
 ||efficaciouscactus.com
 ||eiv.baidu.com
 ||ejyymghi.com
@@ -1703,6 +1706,7 @@
 ||email-links.crowdfireapp.com
 ||email-open.adtidy.net
 ||email-open.adtidy.org
+||email.mg1.substack.com
 ||emaillinks.soundiiz.com
 ||emebo.io
 ||emerse.com
@@ -1902,7 +1906,6 @@
 ||glisteningsign.com
 ||globalismedia.com
 ||globaltakeoff.net
-||globus-inter.com
 ||gloriousbeef.com
 ||glossysense.com
 ||gloyah.net
@@ -2058,6 +2061,7 @@
 ||imgpromo.easyrencontre.com
 ||immensehoney.com
 ||imonomy.com
+||imp.i312864.net
 ||importedincrease.com
 ||impossibleexpansion.com
 ||imprese.cz
@@ -2224,6 +2228,8 @@
 ||lijit.com
 ||link-booster.de
 ||link.axios.com
+||link.sbstck.com
+||link.theatlantic.com
 ||link.uk.expediamail.com
 ||link4ads.com
 ||linkbuddies.com
@@ -2237,6 +2243,7 @@
 ||linkshighway.com
 ||linkstorms.com
 ||linkswaper.com
+||linksynergy.com
 ||linktarget.com
 ||liquidad.narrowcastmedia.com
 ||litix.io
@@ -2306,6 +2313,7 @@
 ||marketing.osijek031.com
 ||marketingsolutions.yahoo.com
 ||marketo.com
+||marlowpillow.sjv.io
 ||marriedbelief.com
 ||mas.sector.sk
 ||massivemark.com
@@ -2618,6 +2626,7 @@
 ||panickycurtain.com
 ||panickypancake.com
 ||panoramicplane.com
+||parachutehome.sjv.io
 ||paradoxfactor.com
 ||parchedangle.com
 ||parchedsofa.com
@@ -2710,7 +2719,6 @@
 ||postrelease.com
 ||ppc.adhere.marchex.com
 ||pr-star.de
-||praddpro.de
 ||prchecker.info
 ||prebid.org
 ||predictad.com
@@ -2718,6 +2726,7 @@
 ||presetrabbits.com
 ||previousplayground.com
 ||previouspotato.com
+||prf.hn
 ||priceypies.com
 ||priefy.com
 ||primetime.net
@@ -3114,7 +3123,6 @@
 ||spezialreporte.de
 ||spidersboats.com
 ||spiffymachine.com
-||spikyslave.com
 ||spinbox.techtracker.com
 ||spinbox.versiontracker.com
 ||spinnaker-js.com
@@ -3196,6 +3204,7 @@
 ||stickssheep.com
 ||stickyadstv.com
 ||stiffgame.com
+||stomachscience.com
 ||storesurprise.com
 ||storetail.io
 ||stormyachiever.com
@@ -3264,7 +3273,6 @@
 ||tailsweep.com
 ||tailsweep.se
 ||takethatad.com
-||takru.com
 ||talentedsteel.com
 ||tamgrt.com
 ||tangerinenet.biz
@@ -3300,6 +3308,7 @@
 ||telaria.com
 ||telemetrics.klaviyo.com
 ||telemetry.dropbox.com
+||telemetry.malwarebytes.com
 ||telemetry.v.dropbox.com
 ||temelio.com
 ||tend.io
@@ -3384,6 +3393,7 @@
 ||track.nationalgunrights.org
 ||track.segmetrics.io
 ||track.software-codes.com
+||track.spe.schoolmessenger.com
 ||track.themaccleanup.info
 ||track.ultravpn.com
 ||track.unear.net
@@ -3396,7 +3406,6 @@
 ||tracker-pm2.spilleren.com
 ||tracker.bannerflow.com
 ||tracker.cdnbye.com
-||tracker.comunidadmarriott.com
 ||tracker.icerocket.com
 ||tracker.metricswave.com
 ||tracker.mmdlv.it
@@ -3558,6 +3567,7 @@
 ||verblife-5.co
 ||vericlick.com
 ||vertamedia.com
+||verticalmass.com
 ||vervewireless.com
 ||vibrantmedia.com
 ||vidcpm.com
@@ -3602,7 +3612,6 @@
 ||wdads.sx.atl.publicus.com
 ||wdfl.co
 ||wearbasin.com
-||web-redirecting.com
 ||web-stat.com
 ||web.informer.com
 ||web2.deja.com
@@ -3665,7 +3674,6 @@
 ||worldwide-cash.net
 ||worldwidedigitalads.com
 ||worriednumber.com
-||wpnrtnmrewunrtok.xyz
 ||wryfinger.com
 ||wt-eu02.net
 ||wt.bankmillennium.pl
